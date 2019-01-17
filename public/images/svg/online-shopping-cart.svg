@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44.072 40">
+    <defs>
+        <style>.cls-1{fill:#676477}</style>
+    </defs>
+    <g id="online-shopping-cart" transform="translate(0 -21.231)">
+        <g  transform="translate(0 21.231)">
+            <path class="cls-1"
+                  d="M1.63 24.492H6.3l6.658 24.076a1.631 1.631 0 0 0 1.576 1.2H35a1.634 1.634 0 0 0 1.495-.978l7.446-17.12a1.65 1.65 0 0 0-.136-1.549 1.619 1.619 0 0 0-1.359-.734H19.837a1.63 1.63 0 0 0 0 3.261h20.109L33.913 46.5H15.761L9.1 22.427a1.631 1.631 0 0 0-1.576-1.2H1.63a1.63 1.63 0 1 0 0 3.261z"
+                  transform="translate(0 -21.231)"/>
+            <path class="cls-1"
+                  d="M100.6 368.623a3.7 3.7 0 1 0-3.7-3.7 3.7 3.7 0 0 0 3.7 3.7z"
+                  transform="translate(-87.607 -328.623)"/>
+            <path  class="cls-1" d="M341.606 368.544h.272a3.822 3.822 0 1 0-.272 0z"
+                  transform="translate(-305.519 -328.544)"/>
+        </g>
+    </g>
+</svg>

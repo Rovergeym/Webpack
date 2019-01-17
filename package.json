@@ -1,0 +1,51 @@
+{
+  "name": "yona-cms",
+  "version": "1.0.0",
+  "repository": "gitea@git.serko.xyz:serko/textile.git",
+  "scripts": {
+    "watch": "webpack --mode development --config webpack.config.js -w -d --progress",
+    "build": "webpack --mode production --config webpack.config.js -p --progress"
+  },
+  "authors": [
+    {
+      "name": "Nikolas Serko",
+      "email": "nikolas.serko@gmail.com"
+    }
+  ],
+  "maintainers": [
+    {
+      "name": "Nikolas Serko",
+      "url": "https://github.com/SerkoNikolas"
+    }
+  ],
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "@babel/core": "7.0.*",
+    "@babel/plugin-proposal-class-properties": "7.0.*",
+    "@babel/plugin-proposal-object-rest-spread": "7.0.*",
+    "@babel/plugin-syntax-dynamic-import": "7.0.*",
+    "@babel/plugin-transform-runtime": "7.0.*",
+    "@babel/preset-env": "7.0.*",
+    "@babel/preset-react": "7.0.*",
+    "@babel/register": "7.0.*",
+    "@babel/runtime": "7.0.*",
+    "@babel/runtime-corejs2": "7.0.*",
+    "autoprefixer": "8.6.*",
+    "babel-loader": "8.0.*",
+    "classnames": "2.2.*",
+    "css-loader": "1.0.*",
+    "file-loader": "2.0.*",
+    "mini-css-extract-plugin": "0.4.*",
+    "node-sass": "4.9.*",
+    "normalize.css": "8.0.*",
+    "npm-run-all": "4.1.*",
+    "path": "^0.12.7",
+    "postcss-loader": "3.0.*",
+    "prop-types": "15.6.*",
+    "react": "16.6.*",
+    "react-dom": "16.6.*",
+    "sass-loader": "7.1.*",
+    "webpack": "4.21.*",
+    "webpack-cli": "3.1.*"
+  }
+}
